@@ -40,3 +40,5 @@ This repository contains the Jupyter Notebook implementation for Experiment 4. T
     - Mean Average by Hometown
 3. **Plot Formatting:** Each graph is strictly formatted with a descriptive title, readable category labels on the x-axis, consistent scales appropriate to the data, and proper axis labels.
 4. **Data Interpretation:** Based on the observed dataset from the generated visuals, three concise statements are written below the figure. These statements explicitly identify the category with the highest sample mean for each of the three features, strictly adhering to describing the observed dataset without implying causation.
+
+README file Version History: September 17, 2026 - Initial README output uploaded.
